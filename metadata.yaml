@@ -1,0 +1,31 @@
+_repo: Leading-Articles-on-Various-Subjects_29440
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Hugh
+    birthdate: 1802
+    deathdate: 1856
+    gutenberg_agent_id: '33221'
+    url: http://www.gutenberg.org/2009/agents/33221
+  editor:
+    agent_name: Davidson, John
+    deathdate: 1881
+    gutenberg_agent_id: '33916'
+    url: http://www.gutenberg.org/2009/agents/33916
+description: ''
+gutenberg_issued: '2009-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AC'
+- !lcsh 'English essays'
+title: Leading Articles on Various Subjects
+url: http://www.gutenberg.org/ebooks/29440
