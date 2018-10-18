@@ -29,5 +29,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'AC'
 - !lcsh 'English essays'
+- GITenberg
 title: Leading Articles on Various Subjects
 url: http://www.gutenberg.org/ebooks/29440
